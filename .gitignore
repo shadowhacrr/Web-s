@@ -1,8 +1,0 @@
-node_modules/
-data/
-scraped_data/
-bot_tokens/
-.env
-*.log
-npm-debug.log*
-.DS_Store
